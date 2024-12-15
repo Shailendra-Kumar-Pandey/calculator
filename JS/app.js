@@ -1,7 +1,5 @@
 let display = document.querySelector('.display');
 let currentValue = '0';
-// let currentOperator = '';
-// let previousInput = '';
 
 function appendNumber(number) {
         if(currentValue === '0'){

@@ -1,3 +1,4 @@
+// calculator Function
 let display = document.querySelector('.display');
 let currentValue = '0';
 
